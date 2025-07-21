@@ -1,0 +1,22 @@
+.stats,
+.awards,
+.education,
+.pricing,
+.openAccount {
+  margin-top: 9rem !important;
+}
+
+.arrowLink {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 17px;
+  color: #387ed1;
+}
+
+.arrowLink:hover {
+  color: #424141;
+}
+
+.statsImg {
+  margin-top: 7rem !important;
+}

@@ -1,0 +1,58 @@
+.product {
+  margin: 6rem 0 !important;
+}
+
+.headingProduct {
+  color: #424242;
+}
+
+.textProduct {
+  color: #424242;
+  font-size: 1.3rem;
+}
+
+.productTitle {
+  color: #424242;
+}
+
+.productDescription {
+  color: #424242;
+  font-size: 1.3rem;
+}
+
+.rightProductText {
+  margin-top: 13rem !important;
+}
+
+.space {
+  margin-bottom: 6rem !important;
+}
+
+.extraText {
+  margin-top: 6rem;
+}
+
+.titleUniverse {
+  margin-top: 7rem;
+  color: #424242;
+}
+
+.textUniverse {
+  margin-bottom: 5rem;
+  color: #424242;
+  font-size: 17px;
+}
+
+.universeImgText {
+  font-size: 0.85rem;
+}
+
+.anchorUniverse {
+  text-decoration: none;
+}
+
+.btnUniverse {
+  font-size: 20px;
+  width: 13rem;
+  margin: 6rem;
+}

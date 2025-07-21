@@ -1,0 +1,26 @@
+.ctMainLink {
+  color: #2c2c2c;
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+.ctMainLink:hover {
+  color: #387ed1;
+}
+
+.ct2ndLink {
+  text-decoration: none;
+  font-size: 0.9rem;
+  margin: 1rem 0 1rem 0 !important;
+}
+
+.ct2ndLink:hover {
+  color: #2c2c2c;
+}
+
+.pMainLink {
+  margin-left: 28px;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}

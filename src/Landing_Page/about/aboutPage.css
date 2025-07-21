@@ -1,0 +1,20 @@
+.headLineAbout {
+  margin: 6rem 0 !important;
+  color: #424242;
+}
+
+.textPara {
+  margin: 6rem 0 !important;
+}
+
+.textAbout {
+  color: #424242;
+  font-size: 1.15rem;
+}
+
+.CEO_img {
+  height: 20rem !important;
+  width: 20rem !important;
+  border-radius: 50%;
+  margin-bottom: 2rem !important;
+}
