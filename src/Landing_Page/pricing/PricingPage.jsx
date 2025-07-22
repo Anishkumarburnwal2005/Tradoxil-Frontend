@@ -1,5 +1,5 @@
 import Hero from "./Hero";
-import ChargesAccount from "./chargesAccount";
+import ChargesAccount from "./ChargesAccount";
 import OpenAccount from "../OpenAccount";
 
 import "./pricingPage.css";
