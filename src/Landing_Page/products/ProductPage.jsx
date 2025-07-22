@@ -3,7 +3,7 @@ import LeftSection from "./LeftSection";
 import RightSection from "./RightSection";
 import Universe from "./Universe";
 
-import "./ProductPage.css";
+import "./productPage.css";
 
 function ProductPage() {
   return (
