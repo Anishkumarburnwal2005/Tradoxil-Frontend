@@ -24,7 +24,10 @@ function Signup() {
           <div className="col" style={{ marginTop: "8rem" }}>
             <h2 className="fs-3 fw-medium">Signup now</h2>
             <p className="text-muted">Or track your existing application</p>
-            <a className="nav-link" href="http://localhost:5174/">
+            <a
+              className="nav-link"
+              href="https://tradoxil-dashboard.onrender.com"
+            >
               <button className="btn btn-primary">Signup</button>
             </a>
           </div>
