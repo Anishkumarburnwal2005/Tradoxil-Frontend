@@ -16,24 +16,12 @@ createRoot(document.getElementById("root")).render(
   <BrowserRouter>
     <Navbar />
     <Routes>
-      <Route path="https://tradoxil.onrender.com" element={<HomePage />} />
-      <Route path="https://tradoxil.onrender.com/signUp" element={<Signup />} />
-      <Route
-        path="https://tradoxil.onrender.com/about"
-        element={<AboutPage />}
-      />
-      <Route
-        path="https://tradoxil.onrender.com/pricing"
-        element={<PricingPage />}
-      />
-      <Route
-        path="https://tradoxil.onrender.com/product"
-        element={<ProductPage />}
-      />
-      <Route
-        path="https://tradoxil.onrender.com/support"
-        element={<SupportPage />}
-      />
+      <Route path="/" element={<HomePage />} />
+      <Route path="/signUp" element={<Signup />} />
+      <Route path="/about" element={<AboutPage />} />
+      <Route path="/pricing" element={<PricingPage />} />
+      <Route path="/products" element={<ProductPage />} />
+      <Route path="/support" element={<SupportPage />} />
       <Route path="*" element={<WrongRoute />} />
     </Routes>
     <Footer />
